@@ -1,1 +1,1 @@
-# simulando_API_python
+# Simulando o uso de uma API para procurar lugares novos para viajar - Python
